@@ -1,4 +1,5 @@
 import { parseFrontmatter, renderMarkdown } from './markdown.js';
+import { initTheme } from './theme.js';
 
 const SITE_NAME = 'my-blog';
 const SLUG_RE = /^[\p{L}\p{N}_-]+$/u;
@@ -118,6 +119,8 @@ async function renderPost(container) {
 }
 
 // ---------- 시작 ----------
+
+initTheme();
 
 const container = document.getElementById('content');
 const page = document.body.dataset.page;
