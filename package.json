@@ -1,0 +1,8 @@
+{
+  "name": "my-blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:index": "node scripts/build-index.mjs"
+  }
+}

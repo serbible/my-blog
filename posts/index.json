@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "첫 글: 마크다운으로 블로그 만들기",
+    "date": "2026-10-21",
+    "tags": [
+      "블로그",
+      "시작"
+    ],
+    "summary": "프레임워크 없이 HTML, CSS, JavaScript만으로 만든 마크다운 블로그의 첫 글입니다."
+  },
+  {
+    "slug": "today-i-learned",
+    "title": "오늘 배운 것",
+    "date": "2026-10-21",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "클로드 코드"
+    ],
+    "summary": "클로드 코드로 블로그를 만들며 알게 된 HTML, CSS, JavaScript 각각의 역할을 간단히 정리했습니다."
+  },
+  {
+    "slug": "markdown-showcase",
+    "title": "지원하는 마크다운 문법 모아보기",
+    "date": "2026-10-20",
+    "tags": [
+      "마크다운",
+      "레퍼런스"
+    ],
+    "summary": "제목, 목록, 코드, 표, 인용, 이미지 등 이 블로그가 변환할 수 있는 문법을 한눈에 확인합니다."
+  },
+  {
+    "slug": "dark-mode-notes",
+    "title": "다크 모드를 CSS 변수로 구현하는 방법",
+    "date": "2026-10-18",
+    "tags": [
+      "CSS",
+      "다크모드"
+    ],
+    "summary": "색상을 CSS 변수로 모으고 시스템 설정과 수동 토글을 함께 지원하는 방법을 정리했습니다."
+  }
+]
